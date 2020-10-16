@@ -1,0 +1,2 @@
+1. Most (If not all) data structures implement the Itearble interface. In the individual classes containing the source code for various data structures, the hasNext(), next() and remove() methods have been implemented differently to enable navigation in those data stuctures as they are structured differently.
+2. On priorityqueue, i can check on MinDHeap.java and MinIndexedDHeap.java later if I choose to.
